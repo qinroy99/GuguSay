@@ -1,1 +1,12 @@
-123
+{
+  "manifest_version": 1,
+  "version": "2026-03-18T04:27:49Z",
+  "generated_at": "2026-03-18T04:29:47Z",
+  "file": {
+    "name": "SR.db",
+    "size": 36122624,
+    "sha256": "282341669e1795a675feccd4478c0d20cf922c2a51009e3d50dc469db5357bf7",
+    "mtime": "2026-03-18T04:27:49Z",
+    "url": "https://raw.githubusercontent.com/qinroy99/Gugusay/main/newcontext/db/SR.db"
+  }
+}
