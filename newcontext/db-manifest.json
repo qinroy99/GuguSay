@@ -1,12 +1,12 @@
 {
   "manifest_version": 1,
-  "version": "2026-03-21T01:15:27Z",
-  "generated_at": "2026-03-21T01:57:13Z",
+  "version": "2026-04-01T01:26:41Z",
+  "generated_at": "2026-04-01T01:31:52Z",
   "file": {
     "name": "SR.db",
     "size": 36122624,
-    "sha256": "152a79e441b5eda734da391205f0138a9b3aa651dcd6d5e797497c04e3e774b9",
-    "mtime": "2026-03-21T01:15:27Z",
+    "sha256": "9c32a22266163bc9c13471f7fb362bf9cab47905850adf10e66c544488daf312",
+    "mtime": "2026-04-01T01:26:41Z",
     "url": "https://raw.githubusercontent.com/qinroy99/Gugusay/main/newcontext/db/SR.db"
   }
 }
